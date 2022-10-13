@@ -1,11 +1,9 @@
-## Bem-vindo(a) ao perfil do Jarciel Gomes😁
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
    <a href="https://github.com/jarciel-gomes">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jarciel-gomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jarciel-gomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jarciel-gomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarciel-gomes&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -21,12 +19,10 @@
 <div> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = ".com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = ""https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="linkedin.com/in/jarciel-gomes-6aa221253" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/jarciel-gomes
-/jarciel-gomes
-/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jarciel-gomes/jarciel-gomes/blob/output/github-contribution-grid-snake.svg)
 
 </div>
